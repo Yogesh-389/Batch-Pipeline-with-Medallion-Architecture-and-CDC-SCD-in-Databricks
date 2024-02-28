@@ -1,0 +1,1 @@
+# Batch-Pipeline-with-Medallion-Architecture-and-CDC-SCD-in-Databricks
