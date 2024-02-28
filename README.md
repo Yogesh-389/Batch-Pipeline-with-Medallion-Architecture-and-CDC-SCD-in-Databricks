@@ -1,3 +1,3 @@
 # Architecture
 
-![Architecture Diagram](https://github.com/Yogesh-389/Automated-Data-Orchestration-and-Transformation-Pipeline-with-Apache-Airflow/blob/main/Health_Data_Analysis.drawio.png?raw=true)
+![Architecture Diagram](https://github.com/Yogesh-389/Batch-Pipeline-with-Medallion-Architecture-and-CDC-SCD-in-Databricks/blob/main/Lakehouse_Architecture.drawio.png?raw=true)
